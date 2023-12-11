@@ -1,1 +1,1 @@
-password gen
+password generator
