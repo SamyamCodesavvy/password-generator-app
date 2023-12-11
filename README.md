@@ -31,12 +31,3 @@ Here's an example of how the application can be used:
 
 ## Conclusion
 The Password Generator provides a convenient way to create passwords of varying complexities, offering users options based on their security needs.
-
-Feel free to contribute, report issues, or suggest improvements!
-
-## Contributors
-- [Your Name or Username]
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
