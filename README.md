@@ -3,13 +3,14 @@
 ## Introduction::
 This Password Generator application generates passwords of different complexities based on user input. It's a simple yet effective tool to create passwords of varying lengths and complexities.
 
-## Features and Functionalities
+## Features and Functionalities:
 - **Easy Password:** Generates a password consisting of only digits (0-9).
 - **Medium Password:** Generates a password consisting of letters (both uppercase and lowercase) and digits.
 - **Hard Password:** Generates a password consisting of letters (both uppercase and lowercase), digits, and special characters.
 
 ## Implementation
-### Technologies Used
+### Technologies Used:
+
 - **Python:** The application is built using Python.
 - **Tkinter:** GUI elements are created using the Tkinter library for Python.
 
