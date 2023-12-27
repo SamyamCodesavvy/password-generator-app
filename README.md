@@ -12,7 +12,6 @@ This Password Generator application generates passwords of different complexitie
 ### Technologies Used:
 
 - **Python:** The application is built using Python.
-- **Tkinter:** GUI elements are created using the Tkinter library for Python.
 
 ### How to Use
 1. Run the script in your Python environment.
