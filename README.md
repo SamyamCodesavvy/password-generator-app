@@ -1,6 +1,6 @@
 # Password Generator
 
-## Introduction::
+## Introduction
 This Password Generator application generates passwords of different complexities based on user input. It's a simple yet effective tool to create passwords of varying lengths and complexities.
 
 ## Features and Functionalities:
